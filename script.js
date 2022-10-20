@@ -1,4 +1,4 @@
-console.log()
+console.log(nom("younnes"),prenom("ybennaine"),age(20))
 
 
 
